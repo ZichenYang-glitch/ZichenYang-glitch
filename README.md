@@ -15,21 +15,21 @@ I build reproducible tools and workflows for omics analysis, with a focus on epi
 ### 🧰 Languages & tools
 
 <p>
-  <img src="assets/badges/python.svg" height="26" alt="Python">
-  <img src="assets/badges/r.svg" height="26" alt="R">
-  <img src="assets/badges/typescript.svg" height="26" alt="TypeScript">
-  <img src="assets/badges/javascript.svg" height="26" alt="JavaScript">
-  <img src="assets/badges/gnubash.svg" height="26" alt="Bash">
-  <img src="assets/badges/html5.svg" height="26" alt="HTML">
-  <img src="assets/badges/css.svg" height="26" alt="CSS">
+  <img src="assets/badges/python.svg" height="20" alt="Python">
+  <img src="assets/badges/r.svg" height="20" alt="R">
+  <img src="assets/badges/typescript.svg" height="20" alt="TypeScript">
+  <img src="assets/badges/javascript.svg" height="20" alt="JavaScript">
+  <img src="assets/badges/gnubash.svg" height="20" alt="Bash">
+  <img src="assets/badges/html5.svg" height="20" alt="HTML">
+  <img src="assets/badges/css.svg" height="20" alt="CSS">
 </p>
 
 **Workflows & templates**
 
 <p>
-  <img src="assets/badges/snakemake.svg" height="26" alt="Snakemake">
-  <img src="assets/badges/nextflow.svg" height="26" alt="Nextflow">
-  <img src="assets/badges/mako.svg" height="26" alt="Mako">
+  <img src="assets/badges/snakemake.svg" height="20" alt="Snakemake">
+  <img src="assets/badges/nextflow.svg" height="20" alt="Nextflow">
+  <img src="assets/badges/mako.svg" height="20" alt="Mako">
 </p>
 
 ### 🛠️ Selected projects
