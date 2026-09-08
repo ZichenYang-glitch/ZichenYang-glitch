@@ -12,7 +12,25 @@
 
 I build reproducible tools and workflows for omics analysis, with a focus on epigenomics, transcriptomics, and chromatin interactions.
 
-**Tools:** Python · R · Bash · Snakemake · Nextflow
+### 🧰 Languages & tools
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&amp;logo=r&amp;logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&amp;logo=gnubash&amp;logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&amp;logo=css&amp;logoColor=white" alt="CSS">
+</p>
+
+**Workflows & templates**
+
+<p>
+  <a href="https://snakemake.github.io/"><img src="https://raw.githubusercontent.com/snakemake/snakemake-workflow-catalog/main/logo-snake.svg" width="28" height="28" alt="Snakemake logo"><img src="https://img.shields.io/badge/Snakemake-039D55?style=for-the-badge" alt="Snakemake"></a>
+  <img src="https://img.shields.io/badge/Nextflow-0DC09D?style=for-the-badge&amp;logo=nextflow&amp;logoColor=white" alt="Nextflow">
+  <img src="https://img.shields.io/badge/Mako-4B4B4B?style=for-the-badge" alt="Mako">
+</p>
 
 ### 🛠️ Selected projects
 
