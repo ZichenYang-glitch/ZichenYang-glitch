@@ -1,26 +1,41 @@
-<h1 align="center">Hi, I'm Zichen Yang 👋</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+  <img width="100%" src="assets/hero-light.svg" alt="Zichen Yang — Hematology, Immunology, Epigenetics, Bioinformatics">
+</picture>
 
-<p align="center">
-  <strong>Hematology · Immunology · Epigenetics · Bioinformatics</strong>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=ZichenYang-glitch&amp;label=Profile+views&amp;color=B94E57&amp;style=flat" alt="Profile views">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZichenYang-glitch&amp;label=Profile+views&amp;color=0e75b6&amp;style=flat" alt="Profile views">
+  I build reproducible tools and workflows for omics analysis,<br>
+  with a focus on epigenomics, transcriptomics, and chromatin interactions.
 </p>
 
----
+<p align="center">
+  <img height="28" src="assets/tool-python.svg" alt="Python">
+  <img height="28" src="assets/tool-r.svg" alt="R">
+  <img height="28" src="assets/tool-bash.svg" alt="Bash">
+  <img height="28" src="assets/tool-snakemake.svg" alt="Snakemake">
+  <img height="28" src="assets/tool-nextflow.svg" alt="Nextflow">
+</p>
 
-I build reproducible tools and workflows for omics analysis, with a focus on epigenomics, transcriptomics, and chromatin interactions.
+<br>
 
-**Tools:** Python · R · Bash · Snakemake · Nextflow
+### Selected work
 
-### 🛠️ Selected projects
+> **[HelixWeave ↗](https://github.com/ZichenYang-glitch/ENCODE-style-ChIPseq-CUT-Tag-pipeline)**<br>
+> <sub>OMICS WORKFLOW PLATFORM</sub>
+>
+> A local platform for running omics workflows and reviewing quality control and results.
 
-[**HelixWeave**](https://github.com/ZichenYang-glitch/ENCODE-style-ChIPseq-CUT-Tag-pipeline)<br>
-A local platform for running omics workflows and reviewing quality control and results.
+> **[RNA-seq Downstream Toolkit ↗](https://github.com/ZichenYang-glitch/rnaseq-downstream)**<br>
+> <sub>BULK RNA-SEQ · RESEARCH PREVIEW</sub>
+>
+> Auditable input validation and differential expression analysis for bulk RNA-seq.
 
-[**RNA-seq Downstream Toolkit**](https://github.com/ZichenYang-glitch/rnaseq-downstream)<br>
-Auditable input validation and differential expression analysis for bulk RNA-seq. *Research preview.*
+<br>
 
 ### 🐍 Contribution snake
 
