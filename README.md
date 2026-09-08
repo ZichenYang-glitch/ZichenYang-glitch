@@ -34,4 +34,4 @@ Auditable input validation and differential expression analysis for bulk RNA-seq
 
 ---
 
-<p align="center"><em>Drifting like duckweed, yet destined to meet again.</em></p>
+<p align="center"><em>learn to love &amp; love to learn</em></p>
