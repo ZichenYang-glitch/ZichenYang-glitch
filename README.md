@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ZichenYang-glitch&amp;label=Profile+views&amp;color=0e75b6&amp;style=flat" alt="Profile views">
+</p>
+
+<p align="center">
   <a href="https://github.com/ZichenYang-glitch?tab=repositories">Explore my repositories</a>
 </p>
 
