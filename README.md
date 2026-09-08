@@ -5,34 +5,24 @@
 </p>
 
 <p align="center">
-  Shandong University
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ZichenYang-glitch&amp;label=Profile+views&amp;color=0e75b6&amp;style=flat" alt="Profile views">
-</p>
-
-<p align="center">
-  <a href="https://github.com/ZichenYang-glitch?tab=repositories">Explore my repositories</a>
 </p>
 
 ---
 
-### 🧬 About me
+I build reproducible tools and workflows for omics analysis, with a focus on epigenomics, transcriptomics, and chromatin interactions.
 
-My interests span hematology, immunology, and epigenetics. I build tools and workflows for exploring omics data, with an emphasis on reproducibility, clear provenance, and results that can be inspected.
-
-- **Interests:** hematology, immunology, epigenetics, epigenomics, transcriptomics, and chromatin interactions.
-- **Tools:** Python, R, Bash, Snakemake, and Nextflow.
+**Tools:** Python · R · Bash · Snakemake · Nextflow
 
 ### 🛠️ Selected projects
 
-| Project | What it does |
-| :--- | :--- |
-| [**HelixWeave**](https://github.com/ZichenYang-glitch/ENCODE-style-ChIPseq-CUT-Tag-pipeline) | Local omics analysis platform for running workflows and reviewing QC and results. |
-| [**RNA-seq Downstream Toolkit**](https://github.com/ZichenYang-glitch/rnaseq-downstream) | An auditable toolkit for bulk RNA-seq input validation and differential expression; currently a research preview. |
+[**HelixWeave**](https://github.com/ZichenYang-glitch/ENCODE-style-ChIPseq-CUT-Tag-pipeline)<br>
+A local platform for running omics workflows and reviewing quality control and results.
 
-### 🐍 A little snake, a year of contributions
+[**RNA-seq Downstream Toolkit**](https://github.com/ZichenYang-glitch/rnaseq-downstream)<br>
+Auditable input validation and differential expression analysis for bulk RNA-seq. *Research preview.*
+
+### 🐍 Contribution snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZichenYang-glitch/ZichenYang-glitch/output/github-contribution-grid-snake-dark.svg">
