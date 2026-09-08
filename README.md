@@ -27,7 +27,6 @@ I build tools and workflows for exploring omics data, with an emphasis on reprod
 | :--- | :--- |
 | [**HelixWeave**](https://github.com/ZichenYang-glitch/ENCODE-style-ChIPseq-CUT-Tag-pipeline) | Local omics analysis platform for running workflows and reviewing QC and results. |
 | [**RNA-seq Downstream Toolkit**](https://github.com/ZichenYang-glitch/rnaseq-downstream) | An auditable toolkit for bulk RNA-seq input validation and differential expression; currently a research preview. |
-| [**unionloops-nf**](https://github.com/ZichenYang-glitch/unionloops-nf) | A Nextflow pipeline for chromatin loop calling and cross-sample comparison. |
 
 ### 🐍 A little snake, a year of contributions
 
