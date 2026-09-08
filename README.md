@@ -30,8 +30,6 @@ Auditable input validation and differential expression analysis for bulk RNA-seq
   <img alt="Snake animation of my GitHub contribution graph" src="https://raw.githubusercontent.com/ZichenYang-glitch/ZichenYang-glitch/output/github-contribution-grid-snake.svg">
 </picture>
 
-<p align="center"><sub>Updated daily · Powered by <a href="https://github.com/Platane/snk">Platane/snk</a></sub></p>
-
 ---
 
 <p align="center"><em>learn to love &amp; love to learn</em></p>
