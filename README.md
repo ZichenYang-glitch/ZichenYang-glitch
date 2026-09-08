@@ -1,4 +1,6 @@
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/hero-compact-dark.svg">
+  <source media="(max-width: 600px)" srcset="assets/hero-compact-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
   <img width="100%" src="assets/hero-light.svg" alt="Zichen Yang — Hematology, Immunology, Epigenetics, Bioinformatics">
