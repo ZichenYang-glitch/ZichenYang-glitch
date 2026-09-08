@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Zichen Yang 👋</h1>
 
 <p align="center">
-  <strong>Hematology · Immunology · Bioinformatics</strong>
+  <strong>Hematology · Immunology · Epigenetics · Bioinformatics</strong>
 </p>
 
 <p align="center">
@@ -16,9 +16,9 @@
 
 ### 🧬 About me
 
-My interests span hematology and immunology. I build tools and workflows for exploring omics data, with an emphasis on reproducibility, clear provenance, and results that can be inspected.
+My interests span hematology, immunology, and epigenetics. I build tools and workflows for exploring omics data, with an emphasis on reproducibility, clear provenance, and results that can be inspected.
 
-- **Interests:** hematology, immunology, epigenomics, transcriptomics, and chromatin interactions.
+- **Interests:** hematology, immunology, epigenetics, epigenomics, transcriptomics, and chromatin interactions.
 - **Tools:** Python, R, Bash, Snakemake, and Nextflow.
 
 ### 🛠️ Selected projects
